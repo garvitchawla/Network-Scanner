@@ -1,6 +1,7 @@
 # Network-Scanner
 In this project, I'm scanning the whole network by setting a target as the complete network and then creating an IP and MAC mapping.
 
+
 OUTPUT
 root@kali:~/PycharmProjects/net_scanner# python net_scanner.py -t 172.16.61.2/24
 ---------------------------------------------------------
